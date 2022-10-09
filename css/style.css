@@ -70,6 +70,7 @@ a {
   left: 0;
   z-index: 1;
   display: inline-block;
+  border-radius: 50%;
 }
 .game__body::before {
   background-color: rgb(240, 196, 75);
